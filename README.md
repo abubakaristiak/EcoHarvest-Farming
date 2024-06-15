@@ -76,10 +76,11 @@ The report provides a detailed overview of the EcoHarvest Farming project, inclu
   
 # Documentation
 
-The full report is available on Google Docs: [EcoHarvest Farming Report](https://docs.google.com/document/d/1B6Ge0sEQKQ7JgH7oRln_49Ux5KWM3S7mWLjpsfN9UB0/edit)
+The full report is available on Google Docs: [EcoHarvest Farming Report](https://docs.google.com/document/d/1B6Ge0sEQKQ7JgH7oRln_49Ux5KWM3S7mWLjpsfN9UB0/edit).
+
+Summary of the project: [EcoHarvest Project Summary](https://docs.google.com/document/d/1_t0m4mtW7u8PGohwNSuIj9B26pXwm7HH2A69o-APxhk/edit#heading=h.6jynaot9cbnq)
 
 
-
-Content Me:
-e-mail -> abubakar119147@gmail.com
+# Content Me
+E-mail -> abubakar119147@gmail.com
 
