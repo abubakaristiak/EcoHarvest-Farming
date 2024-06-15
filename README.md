@@ -29,11 +29,21 @@ The UI design provides an intuitive and user-friendly interface for farmers and 
 - **Reports and Insights**: Section to view detailed reports and recommendations.
 
 ### Screenshots
-![Splash Screen]([Splash Screen.png](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Splash%20Screen.png))
-![On Boarding]([ui/screenshots/dashboard.png](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/On%20Boarding1.png))
-![Dashboard](ui/screenshots/dashboard.png)
-![Sensor Monitoring](ui/screenshots/sensor_monitoring.png)
-![Irrigation Control](ui/screenshots/irrigation_control.png)
+![Splash Screen](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Splash%20Screen.png)
+![On Boarding_01](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/On%20Boarding1.png)
+![On Boarding_02](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/On%20Boarding2.png)
+![On Boarding_03](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/On%20Boarding3.png)
+![On Boarding_04](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/On%20Boarding4.png)
+![Sign Up](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Sign%20up.png)
+![Log In](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Log%20in.png)
+![Home Page](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/home.png)
+![Irrigation Control](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/irrigation%20control.png)
+![Soil Status](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Soil%20Status.png)
+![Diagnose](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Diagnose.png)
+![Scan](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Scan1.png)
+![Scan Free](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Scan%20free.png)
+
+
 
 ## Report
 
