@@ -44,7 +44,6 @@ The UI design provides an intuitive and user-friendly interface for farmers and 
 ![Scan Free](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Scan%20free.png)
 
 
-
 ## Report
 
 The report provides a detailed overview of the EcoHarvest Farming project, including:
