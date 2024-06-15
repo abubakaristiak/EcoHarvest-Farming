@@ -28,20 +28,41 @@ The UI design provides an intuitive and user-friendly interface for farmers and 
 - **Irrigation Control**: Control panel for automated irrigation systems.
 - **Reports and Insights**: Section to view detailed reports and recommendations.
 
-### Screenshots
-![Splash Screen](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Splash%20Screen.png)
-![On Boarding_01](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/On%20Boarding1.png)
-![On Boarding_02](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/On%20Boarding2.png)
-![On Boarding_03](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/On%20Boarding3.png)
-![On Boarding_04](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/On%20Boarding4.png)
-![Sign Up](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Sign%20up.png)
-![Log In](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Log%20in.png)
-![Home Page](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/home.png)
-![Irrigation Control](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/irrigation%20control.png)
-![Soil Status](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Soil%20Status.png)
-![Diagnose](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Diagnose.png)
-![Scan](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Scan1.png)
-![Scan Free](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Scan%20free.png)
+# Image Gallery
+
+## Splash Screen
+![Splash Screen](https://github.com/your-username/your-repository-name/blob/main/01_Splash_Screen.png)
+
+## Onboarding Screens
+![Onboarding Step 1](https://github.com/your-username/your-repository-name/blob/main/02_On_Boarding_01.png)
+![Onboarding Step 2](https://github.com/your-username/your-repository-name/blob/main/03_On_Boarding_02.png)
+![Onboarding Step 3](https://github.com/your-username/your-repository-name/blob/main/04_On_Boarding_03.png)
+![Onboarding Step 4](https://github.com/your-username/your-repository-name/blob/main/05_On_Boarding_04.png)
+
+## Sign Up
+![Sign Up](https://github.com/your-username/your-repository-name/blob/main/06_Sign_Up.png)
+
+## Log In
+![Log In](https://github.com/your-username/your-repository-name/blob/main/07_Log_In.png)
+
+## Home Page
+![Home Page](https://github.com/your-username/your-repository-name/blob/main/08_Home_Page.png)
+
+## Irrigation Control
+![Irrigation Control](https://github.com/your-username/your-repository-name/blob/main/09_Irrigation_Control.png)
+
+## Soil Status
+![Soil Status](https://github.com/your-username/your-repository-name/blob/main/10_Soil_Status.png)
+
+## Diagnose
+![Diagnose](https://github.com/your-username/your-repository-name/blob/main/11_Diagnose.png)
+
+## Scan
+![Scan](https://github.com/your-username/your-repository-name/blob/main/12_Scan.png)
+
+## Scan Free
+![Scan Free](https://github.com/your-username/your-repository-name/blob/main/13_Scan_Free.png)
+
 
 
 ## Report
