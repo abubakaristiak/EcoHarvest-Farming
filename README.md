@@ -30,6 +30,7 @@ The UI design provides an intuitive and user-friendly interface for farmers and 
 
 ### Screenshots
 ![Splash Screen]([Splash Screen.png](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/Splash%20Screen.png))
+![On Boarding]([ui/screenshots/dashboard.png](https://github.com/abubakaristiak/EcoHarvest-Farming/blob/main/On%20Boarding1.png))
 ![Dashboard](ui/screenshots/dashboard.png)
 ![Sensor Monitoring](ui/screenshots/sensor_monitoring.png)
 ![Irrigation Control](ui/screenshots/irrigation_control.png)
