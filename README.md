@@ -73,8 +73,11 @@ The report provides a detailed overview of the EcoHarvest Farming project, inclu
 - Detailed description of functionalities
 - Potential benefits and impact
 - Future development plans
+  
+# Documentation
 
 The full report is available in the `docs` directory: [EcoHarvest_Farming_Report.pdf](docs/EcoHarvest_Farming_Report.pdf)
+
 
 Content Me:
 e-mail -> abubakar119147@gmail.com
