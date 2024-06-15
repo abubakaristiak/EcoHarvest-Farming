@@ -29,7 +29,7 @@ The UI design provides an intuitive and user-friendly interface for farmers and 
 - **Reports and Insights**: Section to view detailed reports and recommendations.
 
 ### Screenshots
-
+![Splash Screen](Splash Screen.png)
 ![Dashboard](ui/screenshots/dashboard.png)
 ![Sensor Monitoring](ui/screenshots/sensor_monitoring.png)
 ![Irrigation Control](ui/screenshots/irrigation_control.png)
