@@ -76,7 +76,8 @@ The report provides a detailed overview of the EcoHarvest Farming project, inclu
   
 # Documentation
 
-The full report is available in the `docs` directory: [EcoHarvest_Farming_Report.pdf](docs/EcoHarvest_Farming_Report.pdf)
+The full report is available on Google Docs: [EcoHarvest Farming Report](https://docs.google.com/document/d/1B6Ge0sEQKQ7JgH7oRln_49Ux5KWM3S7mWLjpsfN9UB0/edit)
+
 
 
 Content Me:
