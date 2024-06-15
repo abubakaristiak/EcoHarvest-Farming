@@ -2,11 +2,17 @@
 
 EcoHarvest Farming is an innovative concept focused on sustainable agriculture practices. The project aims to leverage technology and ecological principles to create efficient, productive, and environmentally friendly farming systems. This repository includes the user interface design and a detailed report of the project.
 
+## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [UI Design](#ui-design)
+- [Image Gallery](#image-gallery)
 - [Report](#report)
+- [Demo Video](#demo-video)
+- [Documentation](#documentation)
+- [Prototyping](#prototyping)
 - [Contact](#contact)
+
 
 ## Introduction
 
