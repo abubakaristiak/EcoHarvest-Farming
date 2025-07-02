@@ -39,37 +39,37 @@ Figma Link: https://www.figma.com/design/3tLf3xlbArD0FXFTssJLEH/Collage_project_
 # Image Gallery
 
 ## Splash Screen
-![Splash Screen](https://github.com/your-username/your-repository-name/blob/main/01_Splash_Screen.png)
+![Splash Screen](images/Splash%20Screen.png)
 
 ## Onboarding Screens
-![Onboarding Step 1](https://github.com/your-username/your-repository-name/blob/main/02_On_Boarding_01.png)
-![Onboarding Step 2](https://github.com/your-username/your-repository-name/blob/main/03_On_Boarding_02.png)
-![Onboarding Step 3](https://github.com/your-username/your-repository-name/blob/main/04_On_Boarding_03.png)
-![Onboarding Step 4](https://github.com/your-username/your-repository-name/blob/main/05_On_Boarding_04.png)
+![Onboarding Step 1](images/On%20Boarding1.png)
+![Onboarding Step 2](images/On%20Boarding2.png)
+![Onboarding Step 3](images/On%20Boarding3.png)
+![Onboarding Step 4](images/On%20Boarding4.png)
 
 ## Sign Up
-![Sign Up](https://github.com/your-username/your-repository-name/blob/main/06_Sign_Up.png)
+![Sign Up](images/Sign%20up.png)
 
 ## Log In
-![Log In](https://github.com/your-username/your-repository-name/blob/main/07_Log_In.png)
+![Log In](images/Log%20in.png)
 
 ## Home Page
-![Home Page](https://github.com/your-username/your-repository-name/blob/main/08_Home_Page.png)
+![Home Page](images/home.png)
 
 ## Irrigation Control
-![Irrigation Control](https://github.com/your-username/your-repository-name/blob/main/09_Irrigation_Control.png)
+![Irrigation Control](images/irrigation%20control.png)
 
 ## Soil Status
-![Soil Status](https://github.com/your-username/your-repository-name/blob/main/10_Soil_Status.png)
+![Soil Status](images/soil%20status.png)
 
 ## Diagnose
-![Diagnose](https://github.com/your-username/your-repository-name/blob/main/11_Diagnose.png)
+![Diagnose](images/Diagnose.png)
 
 ## Scan
-![Scan](https://github.com/your-username/your-repository-name/blob/main/12_Scan.png)
+![Scan](images/Scan1.png)
 
 ## Scan Free
-![Scan Free](https://github.com/your-username/your-repository-name/blob/main/13_Scan_Free.png)
+![Scan Free](images/Scan%20free.png)
 
 
 
@@ -97,8 +97,9 @@ Summary of the project: [EcoHarvest Project Summary](https://docs.google.com/doc
 
 
 # Prototyping
-https://www.figma.com/proto/3tLf3xlbArD0FXFTssJLEH/Collage_project_01?node-id=1-707&t=QMUTnWcQjMF9YVtS-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+[Click -> Figma](https://www.figma.com/proto/3tLf3xlbArD0FXFTssJLEH/Collage_project_01?node-id=1-707&t=QMUTnWcQjMF9YVtS-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 # Content Me
+Author: Abu Bakar Istiak
 E-mail -> abubakar119147@gmail.com
 
