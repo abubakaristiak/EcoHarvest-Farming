@@ -34,7 +34,7 @@ The UI design provides an intuitive and user-friendly interface for farmers and 
 - **Irrigation Control**: Control panel for automated irrigation systems.
 - **Reports and Insights**: Section to view detailed reports and recommendations.
 
-Figma Link: https://www.figma.com/design/3tLf3xlbArD0FXFTssJLEH/Collage_project_01?node-id=0-1&t=QMUTnWcQjMF9YVtS-0
+[Figma Design](https://www.figma.com/design/3tLf3xlbArD0FXFTssJLEH/Collage_project_01?node-id=0-1&t=QMUTnWcQjMF9YVtS-0)
 
 # Image Gallery
 
@@ -97,9 +97,8 @@ Summary of the project: [EcoHarvest Project Summary](https://docs.google.com/doc
 
 
 # Prototyping
-[Click -> Figma](https://www.figma.com/proto/3tLf3xlbArD0FXFTssJLEH/Collage_project_01?node-id=1-707&t=QMUTnWcQjMF9YVtS-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+[Figma prototyping](https://www.figma.com/proto/3tLf3xlbArD0FXFTssJLEH/Collage_project_01?node-id=1-707&t=QMUTnWcQjMF9YVtS-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
 # Content Me
-Author: Abu Bakar Istiak
-E-mail -> abubakar119147@gmail.com
+Author: Abu Bakar Istiak | E-mail -> abubakar119147@gmail.com
 
